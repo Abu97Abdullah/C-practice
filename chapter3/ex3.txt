@@ -1,0 +1,12 @@
+3.
+(a)
+Equivalent.
+
+(b)
+Not equivalent. For example, "%d-%d-%d" will not fully match with "5•-5-5", leaving "•-5-5" for the next scanf. But "%d -%d -%d" will be able to scan all of it.
+
+(c)
+Not equivalent. "%f " will keep consuming whitespace characters until it encounters a non-whitespace character. Then it will put back that non-whitespace character for the next scanf.
+
+(d)
+Equivalent.
