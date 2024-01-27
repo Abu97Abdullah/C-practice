@@ -1,0 +1,2 @@
+2.
+No, as per the C89 spec, it is "implementation dependant". If the implementation rounds away from zero, and let's say i = 9 and j = 7, then (-i)/j will yield -2 but -(i/j) yields -1.
