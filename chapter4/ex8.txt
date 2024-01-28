@@ -1,2 +1,7 @@
 8.
-Based on my answer for 7, no.
+
+9 - ((total - 1) % 10) <---- This can range in digits 0-9
+
+(10 - (total % 10)) % 10 <---- This can range in digits 0-9
+
+They are identical.
