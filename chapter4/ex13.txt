@@ -1,0 +1,4 @@
+13.
+++i is equivalent i += 1 because both yield the updated value of i, wheras i++ yields the "old" value.
+
+Looked online at the solution and what I said is correct, but I think it's worth noting that the solution seems to suggest that, what I meant by "yield" seems to be called the "value" of the expression (what I would consider as the thing "returned" in Python).
