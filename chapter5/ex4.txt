@@ -1,0 +1,4 @@
+i == j ? 0 : (i > j ? 1 : -1)
+
+The above is not the correct answer because I used an expression inside an expression.
+The correct answer can be found online @ http://knking.com/books/c2/answers/c5.html

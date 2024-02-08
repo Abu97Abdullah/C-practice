@@ -1,0 +1,1 @@
+Yes, the statement is legal. Nothing will happen because if n is 5, then n == 1-10 evaluates to 0 (so the statements inside the if-statement is not executed).
