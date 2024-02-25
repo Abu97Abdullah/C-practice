@@ -1,0 +1,2 @@
+4.
+(c) is not like the other 2. In the body, while (a) and (b) are utilizing i, (c) is going to be utilizing i + 1.

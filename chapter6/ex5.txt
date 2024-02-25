@@ -1,0 +1,2 @@
+5.
+(c) is not like the other 2. For (c), if i == 10 before the loop, it will do at least one pass through the loop statement with it. This is not the case with (a), (b).
