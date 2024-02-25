@@ -1,0 +1,5 @@
+The error is the semicolon after the parenthesis of the if statement.
+It should be like this:
+
+if (n % 2 == 0)
+    printf("n is even\n");
